@@ -1,2 +1,2 @@
 # RaspberrianFileManager
-Create file operations similar to LINUX commands (cp, ls, etc.) for Raspberry Pi 4.0 OS.
+Create file operations similar to LINUX commands (cp, ls, etc.) for the Raspberry Pi 4.0 OS, Raspberrian.
