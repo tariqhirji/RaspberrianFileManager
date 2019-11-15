@@ -142,7 +142,6 @@ void fileManager::remove() {
         // Call destructor once unlinked
          // Clear memory allocated for char array
         delete[] delFile;
-        cout << "Successfully deleted file!" << endl;
     } else {
         // If not 0, error occured
         perror("Error deleting file");
