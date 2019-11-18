@@ -1,4 +1,4 @@
-// Utility that moves and/or renames files. Gives 2 parameters, one old name and one new name.
+// Utility that moves and renames files. Gives 2 parameters, one old name and one new name.
 // Calls rename() function from fileManager on the given strings
 // Author: Tariq Hirji
 
