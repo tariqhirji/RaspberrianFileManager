@@ -1,6 +1,6 @@
 // File Manager helper class that will be used by utility main functions.
 // View header file for function prototypes and variable declarations
-// Author: Tariq Hirji (250901578)
+// Author: Tariq Hirji
 
 #include "fileManager.h"
 using namespace std;
